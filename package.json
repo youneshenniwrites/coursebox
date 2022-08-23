@@ -11,6 +11,8 @@
     "build-storybook": "build-storybook -s ./public"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
     "next": "12.2.5",
     "react": "18.2.0",
     "react-dom": "18.2.0"
